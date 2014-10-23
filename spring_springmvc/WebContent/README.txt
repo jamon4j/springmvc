@@ -1,0 +1,1 @@
+测试通过springmvc下的controller中拿到spring中配置的bean
